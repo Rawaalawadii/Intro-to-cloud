@@ -2,7 +2,13 @@
 
 
 
-مقدمة في الحوسبة السحابية  | Introduction to Cloud computing 
+- مقدمة في الحوسبة السحابية| Introduction to Cloud computing 
+
+في هذه الوحدة سنتعرف على : 
+
+مقدمة في الحوسبة السحابية
+- مفاهيم أساسيه 
+- المميزات والعيوب 
 
  
 SDN Technology 
